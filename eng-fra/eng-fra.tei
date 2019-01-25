@@ -53481,6 +53481,9 @@
             </form>
             <sense>
                <cit type="trans">
+                  <quote>je te demande pardon</quote>
+               </cit>
+               <cit type="trans">
                   <quote>je vous demande pardon</quote>
                </cit>
                <cit type="trans">
@@ -65850,6 +65853,9 @@
                <cit type="trans">
                   <quote>comment allez‐vous?</quote>
                </cit>
+               <cit type="trans">
+                  <quote>comment vas-tu?</quote>
+               </cit>
             </sense>
          </entry>
          <entry>
@@ -65860,6 +65866,9 @@
             <sense>
                <cit type="trans">
                   <quote>comment allez‐vous?</quote>
+               </cit>
+               <cit type="trans">
+                  <quote>comment vas-tu?</quote>
                </cit>
             </sense>
          </entry>
@@ -87593,6 +87602,9 @@
             </form>
             <sense n="1">
                <cit type="trans">
+                  <quote>s'il te plaît</quote>
+               </cit>
+               <cit type="trans">
                   <quote>s'il vous plaît</quote>
                </cit>
             </sense>
@@ -92143,7 +92155,7 @@
                   <quote>démissioner</quote>
                </cit>
                <cit type="trans">
-                  <quote>re retirer</quote>
+                  <quote>retirer</quote>
                </cit>
             </sense>
             <sense n="2">
@@ -95615,7 +95627,7 @@
                   <quote>démissioner</quote>
                </cit>
                <cit type="trans">
-                  <quote>re retirer</quote>
+                  <quote>retirer</quote>
                </cit>
             </sense>
             <sense n="3">
@@ -114130,13 +114142,10 @@
                <cit type="trans">
                   <quote>à toi</quote>
                </cit>
-               </sense>
+            </sense>
             <sense n="3">
                <cit type="trans">
                   <quote>à vous</quote>
-               </cit>
-               <cit type="trans">
-                  <quote>vous</quote>
                </cit>
             </sense>
             </entry>
@@ -121691,6 +121700,11 @@
                   <quote>vous</quote>
                </cit>
             </sense>
+            <sense>
+               <cit type="trans">
+                  <quote>tu</quote>
+               </cit>
+            </sense>
          </entry>
          <entry>
             <form>
@@ -121957,6 +121971,9 @@
                </cit>
                <cit type="trans">
                   <quote>te</quote>
+               </cit>
+               <cit type="trans">
+                  <quote>tu</quote>
                </cit>
                <cit type="trans">
                   <quote>t'</quote>
